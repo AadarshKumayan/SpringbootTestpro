@@ -1,5 +1,5 @@
 This is a springboot test project .
- It contains two classe -
+ It contains two classes -
  1) Student
  2) Subject
  
