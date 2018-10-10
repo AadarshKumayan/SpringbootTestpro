@@ -17,3 +17,6 @@ This is a springboot test project .
  1) Spring
  2) JPA
  3) Mysql
+
+
+ Database - mysql server
